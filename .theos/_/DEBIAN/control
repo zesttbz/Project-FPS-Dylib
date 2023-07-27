@@ -1,0 +1,8 @@
+Homepage: fps
+Name: fps
+Package: fps
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+Version: 1
+Installed-Size: 68

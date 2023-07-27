@@ -1,0 +1,7 @@
+Homepage: fps
+Name: fps
+Package: fps
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+
